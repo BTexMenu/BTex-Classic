@@ -1,7 +1,7 @@
 ## Interface: 11403
-## Title: BTEX 1.14  by |cFFFF8080 Zetaprime82, originally from Tiggy|r
-## Title-frFR: BTEX 1.14  par |cFFFF8080 Zetaprime82, à l'origine à partir de Tiggy|r
-## Title: BTEX |cFFFF8080 Classic v.1.14  |r
+## Title: BTEX 1.14  by |cc00bfffff Zetaprime82, originally from Tiggy|r
+## Title-frFR: BTEX 1.14  par |c00bfffff Zetaprime82, à l'origine à partir de Tiggy|r
+## Title: BTEX |c00bfffff Classic v.1.14  |r
 ## Version: 1.14 (WoW 1.14.3)
 ## Author: Zetaprime82
 ## X-Author: Tiggy, Twistedfury
